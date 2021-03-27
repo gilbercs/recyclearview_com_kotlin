@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_padding">10sp</dimen>
+    <dimen name="size_card_elevation">4sp</dimen>
+    <dimen name="size_texto_lista">14sp</dimen>
+</resources>
