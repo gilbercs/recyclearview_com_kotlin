@@ -7,4 +7,3 @@ O RecyclerView facilita e torna eficiente a exibição de grandes conjuntos de d
 ### _Gostou do projeto, contribua com uma estrela neste respositorio!! é de graça e ajuda muito_.
 
 
-[Crie Apps Profissionais com a linguagem de programação kotlin!](https://bit.ly/curso_criar_aplicativo_kotlin)
